@@ -82,13 +82,6 @@ Prototyping a real-time head-to-head competitive-programming game where speed ma
 
 ---
 
-## Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/atharva7406/atharva7406/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
-
----
 
 ## Find me
 
