@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Atharva&fontSize=60&fontColor=eaeaea&animation=fadeIn&fontAlignY=40&desc=Computer%20Engineering%20%40%20KJSCE%20%C2%B7%20Building%20backend%20%26%20AI%20systems&descAlignY=62&descSize=18&descColor=00d9a5" width="100%"/>
-</p>
+# Hi, I'm Atharva 👋
 
 Computer Engineering student building backend systems, applied AI tools, and whatever seems worth building.
 
