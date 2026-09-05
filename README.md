@@ -1,12 +1,14 @@
 # Hi, I'm Atharva 👋
 
-Computer Engineering student building backend systems, applied AI tools, and whatever seems worth building.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9A5&center=true&vCenter=true&width=600&lines=Backend+engineering+%2B+applied+AI;Building+systems+that+actually+run+in+production;Computer+Engineering+%40+KJSCE" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SIH%202025-Shortlisted-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SIH%202026-In%20Progress-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DSA-530%2B%20Solved-00d9a5?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=atharva7406&color=00d9a5&style=flat-square&label=Profile+Views" />
 </p>
+
+Computer Engineering student building backend systems, applied AI tools, and whatever seems worth building.
 
 ---
 
@@ -84,7 +86,8 @@ Prototyping a real-time head-to-head competitive-programming game where speed ma
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharva7406&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=00d9a5&icon_color=00d9a5&text_color=eaeaea" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atharva7406&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=00d9a5&icon_color=00d9a5&text_color=eaeaea" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva7406&hide_border=true&background=1a1a2e&stroke=00d9a5&ring=00d9a5&fire=00d9a5&currStreakLabel=eaeaea" width="48%" />
 </p>
 
 ---
