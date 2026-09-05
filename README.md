@@ -83,15 +83,6 @@ Prototyping a real-time head-to-head competitive-programming game where speed ma
 
 ---
 
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharva7406&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=00d9a5&icon_color=00d9a5&text_color=eaeaea" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva7406&hide_border=true&background=1a1a2e&stroke=00d9a5&ring=00d9a5&fire=00d9a5&currStreakLabel=eaeaea" width="48%" />
-</p>
-
----
-
 ## Find me
 
 [GitHub](https://github.com/atharva7406) · [Codeforces](https://codeforces.com/profile/Atharva_7406) · [LinkedIn](https://www.linkedin.com/in/atharva-chougule-019b91310/) · [Email](mailto:atharvachougule7406@gmail.com)
