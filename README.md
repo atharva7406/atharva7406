@@ -73,7 +73,7 @@ Prototyping a real-time head-to-head competitive-programming game where speed ma
 
 ### Frontend & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,expo,flutter,swift&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,swift&theme=dark" />
 </p>
 
 ### Tools & Infrastructure
