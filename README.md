@@ -50,7 +50,6 @@ Prototyping a real-time head-to-head competitive-programming game where speed ma
 ## A few highlights
 - 3rd-year Computer Engineering @ KJ Somaiya College of Engineering (2024–2028)
 - 9.6 CGPA
-- Shortlisted for Smart India Hackathon 2025 (institute-level round, KJSCE)
 - 530+ problems solved across DSA & competitive programming
 - Codeforces: [Atharva_7406](https://codeforces.com/profile/Atharva_7406) • 2★ CodeChef
 - Software Development Intern @ Jasani Jewellery
