@@ -52,7 +52,7 @@ Prototyping a real-time head-to-head competitive-programming game where speed ma
 - 9.6 CGPA
 - 530+ problems solved across DSA & competitive programming
 - Codeforces: [Atharva_7406](https://codeforces.com/profile/Atharva_7406) • 2★ CodeChef
-- Software Development Intern @ Jasani Jewellery
+- Software Development Intern @ Jasani Company
 
 ---
 
